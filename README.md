@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This project is made so that a 'robot' could follow a predefined path. For achieving this, an ATmega324pa was used as the main chip of the embedded system. The main program located in project/app/main.cpp where you can see that a finite state machine was designed to achieve this purpose.
+This project is made so that a 'robot' could follow a predefined path. For achieving this, an ATmega324pa was used as the main chip of the embedded system. The main program located in project/app/main.cpp where you can see that a finite state machine was designed to achieve this purpose. The hardware abstraction layer depends on the avr-libc library.
 
 This project uses many tools such as timers, USART, interuptions, peripherals (infrared sensor, line detector, LCD screen and buttons), external memory and pwm.
 
