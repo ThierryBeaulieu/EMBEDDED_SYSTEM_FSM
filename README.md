@@ -7,7 +7,7 @@
 
 ## Project Summary
 
-[version_final.pdf](https://github.com/ThierryBeaulieu/EMBEDDED_SYSTEM_FSM/files/10270676/version_final.pdf)
+![Epreuve_finale](https://user-images.githubusercontent.com/46804791/208727113-7ae98ca2-8609-49e8-b4e5-8a14243ea954.png)
 
 ## Introduction
 
